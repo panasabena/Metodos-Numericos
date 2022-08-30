@@ -17,4 +17,4 @@
 
 # Bibliografía 
 
-• Chapra, S. C., Canale, R. P. (2007). Métodos Numéricos para Ingenieros – Quinta edición. McGraw-Hill  
+• Chapra, S. C., Canale, R. P. (2007). Métodos Numéricos para Ingenieros – Quinta edición. McGraw-Hill   
