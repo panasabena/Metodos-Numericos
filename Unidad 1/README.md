@@ -31,3 +31,19 @@ Las que pueden usarse en forma confiable: el número de dígitos certeros, más 
 *Error relativo verdadero = error verdadero / valor verdadero*
 
 <img src = 'https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\varepsilon&space;_{t}&space;=&space;\frac{ErrorVerdadero}{ValorVerdadero}*100%' height = '50'>
+
+* Si se desconoce el valor verdadero:
+
+<img src = 'https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\varepsilon&space;_{a}&space;=&space;\frac{ErrorAproximado}{ValorAproximado}*100%' height = '50'>
+
+* En métodos iterativos:
+
+<img src = 'https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\varepsilon&space;_{a}&space;=&space;\frac{Aprox.Actual&space;-&space;Aprox.Anterior}{Aprox.Anterior}*100%' height = '50'>
+
+Las iteraciones siguen hasta que:
+
+<img src = 'https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\left|&space;\varepsilon&space;_{a}\right|<\varepsilon&space;_{s}' height = '50'> Tolerancia porcentual
+
+Para asegurar n cifras significativas:
+
+<img src = 'https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\varepsilon&space;_{s}&space;=&space;(0.5&space;X&space;10^{2-n})' height = '50'> 
