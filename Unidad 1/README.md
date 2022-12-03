@@ -20,7 +20,7 @@ Las que pueden usarse en forma confiable: el número de dígitos certeros, más 
 
 * Precisión: Qué tan cercanos se encuentran distintos valores calculados entre sí.
 
-<img src = 'https://github.com/panasabena/Metodos-Numericos/blob/master/Unidad%201/Im%C3%A1genes/Exactitud.png' height = '200'>
+<img src = 'https://github.com/panasabena/Metodos-Numericos/blob/master/Unidad%201/Im%C3%A1genes/Exactitud.png' height = '300'>
 
 ### Definiciones de error
 
@@ -58,4 +58,4 @@ Representación de los números en la computadora: palabra (secuencia de bits - 
 
 * Notación posicional
 
-<img src = 'https://github.com/panasabena/Metodos-Numericos/blob/master/Unidad%201/Im%C3%A1genes/Notaci%C3%B3n%20posicional%20binaria.png' height = '250'> 
+<img src = 'https://github.com/panasabena/Metodos-Numericos/blob/master/Unidad%201/Im%C3%A1genes/Notaci%C3%B3n%20posicional%20binaria.png' height = '300'> 
