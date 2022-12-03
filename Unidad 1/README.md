@@ -42,8 +42,20 @@ Las que pueden usarse en forma confiable: el número de dígitos certeros, más 
 
 Las iteraciones siguen hasta que:
 
-<img src = 'https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\left|&space;\varepsilon&space;_{a}\right|<\varepsilon&space;_{s}' height = '50'> Tolerancia porcentual
+<img src = 'https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\left|&space;\varepsilon&space;_{a}\right|<\varepsilon&space;_{s}' height = '40'> Tolerancia porcentual
 
 Para asegurar n cifras significativas:
 
-<img src = 'https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\varepsilon&space;_{s}&space;=&space;(0.5&space;X&space;10^{2-n})' height = '50'> 
+<img src = 'https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\varepsilon&space;_{s}&space;=&space;(0.5&space;X&space;10^{2-n})' height = '40'> 
+
+## Errores de redondeo
+
+Cantidad limitada de cifras significativas en la computadora.
+
+Representación de los números en la computadora: palabra (secuencia de bits - 0´s o 1´s)
+
+## Sistema numérico binario
+
+* Notación posicional
+
+<img src = 'https://github.com/panasabena/Metodos-Numericos/blob/master/Unidad%201/Im%C3%A1genes/Notaci%C3%B3n%20posicional%20binaria.png' height = '220'> 
