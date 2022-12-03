@@ -30,4 +30,4 @@ Las que pueden usarse en forma confiable: el número de dígitos certeros, más 
 
 *Error relativo verdadero = error verdadero / valor verdadero*
 
-\varepsilon _{t} = \frac{ErrorVerdadero}{ValorVerdadero}*100%
+<img src = '[\varepsilon _{t} = \frac{ErrorVerdadero}{ValorVerdadero}*100%](https://latex.codecogs.com/svg.image?\varepsilon&space;_{t}&space;=&space;\frac{ErrorVerdadero}{ValorVerdadero}*100%)' height = '200'>
