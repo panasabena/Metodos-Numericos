@@ -11,11 +11,9 @@
 
 # Conocimientos previos requeridos
 
-•Algebra Lineal (álgebra matricial)
-
-•Análisis Matemático (principalmente Cálculo de una variable – algunas ideas de cálculo de 2 variables)
-
-•Programación estructurada (Informática)
+• Algebra Lineal (álgebra matricial)
+• Análisis Matemático (principalmente Cálculo de una variable – algunas ideas de cálculo de 2 variables)
+• Programación estructurada (Informática)
 
 # Bibliografía 
 
