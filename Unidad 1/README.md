@@ -13,3 +13,21 @@ Diferencia entre la formulación matemática exacta y la aproximación numérica
 Las que pueden usarse en forma confiable: el número de dígitos certeros, más uno estimado.
 
 <img src = 'https://github.com/panasabena/Metodos-Numericos/blob/master/Unidad%201/Im%C3%A1genes/Cifras%20significativas.png' height = '200'>
+
+### Exactitud y Precisión
+
+* Exáctitud: Qué tan cercano está el valor calculado del verdadero.
+
+* Precisión: Qué tan cercanos se encuentran distintos valores calculados entre sí.
+
+<img src = 'https://github.com/panasabena/Metodos-Numericos/blob/master/Unidad%201/Im%C3%A1genes/Exactitud.png' height = '200'>
+
+### Definiciones de error
+
+*Valor verdadero = valor aproximado + error*
+
+*Et = valor verdadero - valor aproximado*
+
+*Error relativo verdadero = error verdadero / valor verdadero*
+
+\varepsilon _{t} = \frac{ErrorVerdadero}{ValorVerdadero}*100%
