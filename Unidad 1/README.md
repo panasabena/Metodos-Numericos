@@ -30,4 +30,4 @@ Las que pueden usarse en forma confiable: el número de dígitos certeros, más 
 
 *Error relativo verdadero = error verdadero / valor verdadero*
 
-<img src = 'https://github.com/panasabena/Metodos-Numericos/blob/master/Unidad%201/Im%C3%A1genes/Error%20relativo%20verdadero.png' height = '200'>
+<img src = 'https://latex.codecogs.com/png.image?\dpi{110}\bg{white}\varepsilon&space;_{t}&space;=&space;\frac{ErrorVerdadero}{ValorVerdadero}*100%' height = '200'>
